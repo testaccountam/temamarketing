@@ -4,13 +4,21 @@ title: About
 comments: true
 ---
 
-This website is built with Jekyll and "Affiliates" (a Jekyll Template designed & developed by WowThemes.net). It is meant for demonstration purposes, so you can have an idea of how this theme looks in action so no real content can be found. Affiliates template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+Casa Refugio MK lleva abierto desde el año 2015, con mas de 100 mascotitas entre perros y gatos, la seguridad y proteccion de los animalitos es nuestra prioridad,
+los ingresos para el refugio se basan en Donaciones o patrocinios. 
+Antes de desear una amscota consulte:
+-su familia
+-sus alergias
+-su bolsillo
+-su espacio
+-su tiempo
+-su paciencia
 
-**License & Download**
+**Adopta no compres**
 
-"Affiliates" for Jekyll is designed and developed by WowThemes.net and it is *free* for personal use.
+"Adopta" Ven a nustro refugio y adopta al que mas te guste.
 
-<a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip" target="_blank">Download - Affiliates Jekyll Theme</a>
+<a href="https://goo.gl/maps/tLah3q2ej5JYi2um9"> Nos hubicamos Aqui!</a>
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
 
