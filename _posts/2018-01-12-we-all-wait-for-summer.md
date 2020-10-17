@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "We all wait for summer"
+title:  "Refugio de perros"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 featured: true
 ---
-This is changed. As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
+Un refugio de animales es una instalación que sirve como espacio de acogida a animales sin hogar, perdidos o abandonados, en su mayoría, perros y gatos. Sin embargo, se encuentran también animales salvajes, exóticos de importación, o animales de gran tamaño, como elefantes, caballos, etc.
 
-It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
+El lugar se mantiene en mínima parte por autogestión o por la ayuda de animalistas y donaciones. También está el apoyo de la publicista y animalista de corazón, Tatiana Elizalde, de la fundación Patitas en apuros, dedicada al rescate de mascotas. Esta entidad está conformada por un grupo de rescatistas que ayudan con hogares temporales para animalitos sin hogar. Incluso se dedican a la difusión de los casos por redes sociales.
